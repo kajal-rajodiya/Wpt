@@ -6,10 +6,10 @@ app.set('view engine', 'hbs');
 
 app.use(json())
 
-app.get("/ajaxsuyog",(req, res)=>{
+app.get("/ajaxkajal",(req, res)=>{
     res.render("ajaxss")
 })
 
 app.get("/message", (req, res)=>{
-    res.send({sender:"suyog", receiver:"shejul"})
+    res.send({sender:"kajal", receiver:"rajodiya"})
 })
