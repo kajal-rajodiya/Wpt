@@ -1,4 +1,4 @@
-;;;;;;;;;;;;;;;;;;;install express, {json} from "express"
+install express, {json} from "express"
 
 const app = express()
 app.set('views', './views');
