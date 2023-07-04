@@ -1,4 +1,4 @@
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;let obj ={num1:12, data:"this is the number of pens"}
+;;;;let obj ={num1:12, data:"this is the number of pens"}
 
 console.log("obj.num1=",obj.num1)
 console.log("obj=",obj)
